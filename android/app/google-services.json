@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "583111029238",
+    "project_id": "fir-udem-41851",
+    "storage_bucket": "fir-udem-41851.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583111029238:android:9138eec2951d89a40817d7",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583111029238-fbtqm2564po81d4qq4kgsrk3bmsim7ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzMgLgAROmxizmjiukticMoNYZsCJtNgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583111029238-fbtqm2564po81d4qq4kgsrk3bmsim7ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
